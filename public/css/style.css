@@ -1,0 +1,44 @@
+.d {
+    opacity: 0.2;
+    width: 345px;
+    height: 675px;
+    float: left;
+  }
+  .a{
+    height: 445px;
+    margin-left: 111px;
+    z-index: -1;
+    position: absolute;
+  }
+  .b {
+    border-radius: 50%;
+    height: 189px;
+    margin-left: 424px;
+margin-top: 269px;
+
+  }
+  div{
+    
+    margin-left: 847px;
+margin-right: 101px;
+margin-top: 53px;
+  }
+  .c{
+    margin-bottom: 12px;
+width: 41px;
+    
+  }
+  .e{
+    width: 40px;
+    height: 40px;
+    margin-bottom: 11px;
+  }
+  .f{
+    width: 40px;
+    height: 36.1px;
+ 
+  }
+.g {
+    width: 67px;
+    height: 45.55px;
+}

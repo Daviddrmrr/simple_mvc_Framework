@@ -1,0 +1,16 @@
+[05-Mar-2022 11:43:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/daviddrm/public_html/App/mvc/models/User.php:19
+Stack trace:
+#0 /home/daviddrm/public_html/App/mvc/controllers/Xcontroller.php(24): mvc\Models\User->fetch()
+#1 [internal function]: mvc\controller\Xcontroller->users()
+#2 /home/daviddrm/public_html/App/core/app.php(57): call_user_func_array(Array, Array)
+#3 /home/daviddrm/public_html/public/index.php(10): Core\app->__construct()
+#4 {main}
+  thrown in /home/daviddrm/public_html/App/mvc/models/User.php on line 19
+[06-Mar-2022 20:48:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/daviddrm/public_html/App/mvc/models/User.php:19
+Stack trace:
+#0 /home/daviddrm/public_html/App/mvc/controllers/Xcontroller.php(24): mvc\Models\User->fetch()
+#1 [internal function]: mvc\controller\Xcontroller->users()
+#2 /home/daviddrm/public_html/App/core/app.php(57): call_user_func_array(Array, Array)
+#3 /home/daviddrm/public_html/public/index.php(10): Core\app->__construct()
+#4 {main}
+  thrown in /home/daviddrm/public_html/App/mvc/models/User.php on line 19

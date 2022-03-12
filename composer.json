@@ -1,0 +1,12 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Core\\":"App/core",
+            "Core\\Interfaces\\":"App/core/interface",
+            "mvc\\controller\\":"App/mvc/controllers",
+            "Config\\":"App/confing",
+            "mvc\\Models\\":"App/mvc/models",
+            "Api\\Controller\\":"App/Api/Controllers"
+        }
+    }
+}
