@@ -9,7 +9,7 @@ App / mvc / controllers/Xcontroller
 You can understand the coding of the whole project
 I suggest you start from the app.php file
 
----------------------------------------------------
+
                                                                                                                                                          با خواندن کد فایل های زیر
 
 App / core / app.php
